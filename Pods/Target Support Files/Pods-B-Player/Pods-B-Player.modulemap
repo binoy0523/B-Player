@@ -1,0 +1,6 @@
+framework module Pods_B_Player {
+  umbrella header "Pods-B-Player-umbrella.h"
+
+  export *
+  module * { export * }
+}
